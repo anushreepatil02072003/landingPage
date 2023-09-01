@@ -1,0 +1,302 @@
+body{
+    margin:  0 auto;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.navbar{
+    font-size: 1.9rem;
+    font-family: 'Anonymous Pro', monospace;
+    
+}
+
+
+
+ul {
+    background-color:antiquewhite;
+    background-size: cover;
+    margin-left: 50px;
+    padding: 30px;
+    margin:  0 auto;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    list-style-type: none;
+    
+ }
+
+  li {
+    float: left;
+    margin-left: 50px;
+ } 
+
+ li a{
+    color: #E11299;
+    margin-left: 50px;
+    text-decoration:none;
+    
+ }
+
+ li a:hover{
+    color: #F5C6EC;
+ }
+
+
+
+
+.home{
+    background-color:antiquewhite;
+    background-image: url(collage.png);
+    /* -webkit-filter: blur(2px); */
+    background-size: cover;
+    min-height: 90vh;
+    max-width: 1400px;
+    width: 100%;
+    height: 80%;
+    overflow-x: hidden;
+
+    
+
+}
+
+.home_page{
+    
+    min-height: 100vh;
+    max-width: 1400px;
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.home_page{
+    align-items: center;
+    font-family: 'Lancelot', cursive;
+    font-size:xx-large;
+    justify-content: center;
+    font-size: 3.2rem;
+    backdrop-filter: blur(3px);
+    transition: 100ms backdrop-filter linear;
+    color: white;
+    overflow-x: hidden;
+    margin-top: 70px;
+}
+
+#shopping{
+    background-color:#F7EFE5 ;
+    align-items: center;
+    height: 30vh;
+    width: 1300px;
+    height: 650px;
+    overflow: hidden;
+    font-family: 'Sacramento', cursive;
+    font-size:xx-large;
+}
+
+#about{
+    background-color:#FFEAEA ;
+    min-height: 100vh;
+    max-width: 1400px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    font-family: 'Lancelot', cursive;
+    font-size:xx-large;
+}
+
+.contact{
+    background-color: #F5C6EC;
+    min-height: 50vh;
+    max-width: 1400px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    font-family: 'Lancelot', cursive;
+    font-size:xx-large;
+}
+
+.search{
+    margin-top: 40px;
+    margin-left: 50px;
+    height: 30px;
+    font-size: large;
+    font-family: 'Lancelot', cursive;
+
+}
+
+.forever{
+    margin-top: 50px;
+    font-size: 5.8rem;
+}
+
+.fashion_home{
+  font-size: #E11299;
+  font-size: 3.2rem;
+}
+
+.content{
+    margin-top: 50px;
+    font-size: 55px;
+}
+
+.shops{
+    font-size: 40px;
+    font-family: 'Lancelot', cursive;
+    background-color: #cb8340;
+    color:bisque;
+    border-radius: 8px;
+    padding: -100px;
+    margin-bottom: 30px;
+
+}
+
+.shops:hover{
+    background-color:rgb(215, 165, 131);
+}
+
+.image1{
+    margin-top:20px;
+}
+
+.cloth1_button{
+    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+
+
+    background-color: #cb8340;
+    color:bisque;
+    border-radius: 8px;
+    padding: -100px;
+    z-index: 1;
+    margin-left: 110px;
+    position: relative;
+    top: -13px;
+
+}
+
+.cloth1_button:hover{
+    background-color:rgb(215, 165, 131);
+}
+
+.cloth2_button{
+    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+    background-color: #cb8340;
+    color:bisque;
+    border-radius: 8px;
+    padding: -100px;
+    z-index: 1;
+    margin-left: 570px;
+    position: relative;
+    top: -490px;
+
+
+}
+
+.cloth2_button:hover{
+    background-color:rgb(215, 165, 131);
+}
+
+.cloth3_button{
+    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+
+    background-color: #cb8340;
+    color:bisque;
+    border-radius: 8px;
+    padding: -100px;
+    z-index: 1;
+    margin-left: 1020px;
+    position: relative;
+    top: -500px;
+    position: relative;
+    top: -950px;
+    display: -webkit-box;
+
+
+}
+
+.cloth3_button:hover{
+    background-color:rgb(215, 165, 131);
+}
+
+.cloth2{
+    position: relative;
+    top: -470px;
+
+}
+
+.cloth3{
+    position: relative;
+    top: -945px;
+    display: -webkit-box;
+    margin-left: auto;
+    z-index: 1;
+    margin-right: 60px;
+
+}
+
+.cloth1{
+    margin-left: 30px;
+
+}
+
+.tops{
+    margin-left: 100px;
+    position: relative;
+    top: -30px;
+}
+
+.kurtas{
+    position: relative;
+    top: -500px;
+    margin-left: 570px;
+
+
+}
+
+.dress{
+    position: relative;
+    top: -960px;
+    display: -webkit-box;
+    margin-left: auto;
+    margin-left: 1010px;
+
+}
+
+.info_contact{
+    margin-left: 50px;
+}
+
+.about_info{
+    margin-left: 50px;
+    font-family: 'Bubbler One', sans-serif;
+}
+
+.new{
+  font-family: 'Sacramento', cursive;
+}
+
+.icons{
+  margin-left: 550px;
+  font-size: 2.5rem;
+
+}
+
+#footer{
+  background: #FFDBC3;
+  background-size: cover;
+  min-height: 20vh;
+  max-width: 1400px;
+  width: 100%;
+  height: 100%;
+}
+
+.foot{
+    color:#E11299;
+    font-size: 1.5rem;
+}
+
+

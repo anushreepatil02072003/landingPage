@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../port"
+		},
+		{
+			"path": "../temp_test"
+		}
+	],
+	"settings": {}
+}
